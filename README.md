@@ -1,21 +1,12 @@
-# React-Testing
-Following the React.js Udemy course, This repo is for experimenting and learning the React framework, using what I learn here my next few projects will be:
+# Expensify App
+This app for managing expenses in the browser is being written in React.js. Utelizing Babel, React-Router, SCSS and other tools I will be adding as they become relevent.
 
-- A portfolio Website
-- A blockchain app (With solidity)
-- A data visualisation based around WW1
+As this project progresses I will update this README.
 
-As This is progressed I will update this README.
+## What I am Currently Learning
 
-## Currently Learning
+This project is a learning exercise in the uses and functionality of React and the libraries and frameworks that can be used with it. The tech that I am learning is listed below:
 
-- ~~Setting up a React.js environment~~ :white_check_mark:
-- ~~JSX and ES6 syntax~~ :white_check_mark:
-- ~~React Components~~ :white_check_mark:
-- ~~Stateless Functional Components~~ :white_check_mark:
-- ~~Webpack~~ :white_check_mark:
-- ~~Using a third-party component~~ :white_check_mark:
-- ~~Styling React~~ :white_check_mark:
 - React-Router :on:
 - Redux
 - React with Redux

@@ -1,9 +1,9 @@
 import React from 'react';
 
-const ExpenseDashboardPage = () => (
+const Home = () => (
   <div>
     This is the Dashboard Component
   </div>
 );
 
-export default ExpenseDashboardPage;
+export default Home;
